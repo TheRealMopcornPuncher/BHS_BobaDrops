@@ -5,7 +5,7 @@ Well, I won't bore you with any more flavor text. Here's our project structure:
 -----------------------
 ### sitefiles
 |
-index.html
+index.html  
 styles.css
 
 ### README.md (OMG IT'S ME!)
